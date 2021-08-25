@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRINde3h2hbUjqz3bIVYcSLgnqiQppd4PkkDA&usqp=CAU", Sucessos Dos Anos 2000 Vol. 1 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0jKhDGApZDw
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/880/823/full/AddText_09-15-09.06.51.jpg?1600214838", Sucessos Dos Anos 2000 Vol. 2 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IjpuJIxpocM
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/477/original/d73f9c_521165c178374baa8914f91065df015f_mv2.jpg?1619903111", Sucessos Dos Anos 2000 Vol. 3 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lQTkVwWU75k
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/195/full/20210501_124710.jpg?1619884054", Sucessos Dos Anos 2000 Vol. 4 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sM6rfvYU0YQ
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
